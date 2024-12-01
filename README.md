@@ -49,6 +49,19 @@ Before running the project, ensure the following are installed:
 
 ---
 
+## 💡 **Technologies & Dependencies**
+🛠️ Technologies Used:
+- **Selenium WebDriver**S: A powerful tool for automating web browsers. Used for interacting with the SauceDemo site and validating various functionalities.
+- **TestNG**S: A testing framework for Java that provides a powerful and flexible execution model. Used for running and managing the test cases.
+- **Apache Maven**S: A build automation tool for Java projects. Used to manage project dependencies and build configurations.
+  **Page Object Model (POM)**S: A design pattern that promotes code reusability by separating page-specific actions from test scripts.
+-**WebDriverManager
+
+---
+
+
+
+
 ## 🛠️ **Installation Steps**
 
 Follow these steps to set up the project:
